@@ -1,0 +1,7 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-image: url(https://i.pinimg.com/564x/0d/83/f3/0d83f3aa547a7e4290b5859db341dfa3.jpg);
+}

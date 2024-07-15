@@ -1,0 +1,21 @@
+.button {
+  padding: 20px;
+  font-size: 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  background-color: #dbc0ff;
+  color: #000000;
+}
+
+.button:hover {
+  background-color: #af87e4;
+}
+
+.eq{
+  color: rgb(22, 0, 104);
+  background-color: #ffe600;
+}
+.button.eq:hover{
+  background-color: #5b24b3;
+}
